@@ -1,0 +1,7 @@
+base   extractor
+author Gimli2
+email  gimli2{at}gmail.com
+date   2020-06-03
+name   extractor plugin
+desc   Extract parts of another wiki pages
+url    http://dokuwiki.org/plugin:extractor
